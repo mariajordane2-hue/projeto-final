@@ -1,5 +1,5 @@
 import "./NavBar.css";
-import searchIcon from "../../assets/search-icon.svg";
+import searchIcon from "../assets/search-icon.svg";
 import cinelibLogo from "/cine-lib.svg";
 
 const NavBar = () => {
